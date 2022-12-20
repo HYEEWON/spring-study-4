@@ -30,7 +30,7 @@
 * 프로그램 코드를 실행해 애플리케이션 로직을 수행
   * 사용자마다 다른 응답을 할 수 있음
   * 동적 HTML, REST API
-  * Servlet, JSP, AMVC
+  * Servlet, JSP, 스프링 MVC
 * ex) Tomcat
 
 <br>
